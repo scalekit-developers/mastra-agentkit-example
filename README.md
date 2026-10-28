@@ -2,7 +2,7 @@
 
 A Mastra agent that reads Gmail using [Scalekit AgentKit](https://docs.scalekit.com/agentkit/overview/) for OAuth-managed tool access. Discovers tools dynamically from Scalekit and wraps them as native Mastra tools.
 
-Scalekit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+Scalekit provides auth and actions on behalf of users, with 600+ connectors and 35,000+ tools.
 
 ## What it does
 
